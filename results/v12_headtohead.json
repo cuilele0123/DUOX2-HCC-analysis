@@ -1,0 +1,66 @@
+{
+  "tcga_h2h_cindex": {
+    "3-gene signature (out-of-fold)": 0.662,
+    "3-gene signature (fixed TCGA coefficients)": 0.678,
+    "AJCC pathologic stage": 0.582,
+    "Age": 0.537,
+    "3-gene + AJCC (combined)": 0.651
+  },
+  "tcga_h2h_n": 240,
+  "tcga_h2h_events": 73,
+  "tcga_multivariable_cox": {
+    "n": 240,
+    "HR_risk_per_SD": 1.408,
+    "p_risk": 0.0008367780640935544,
+    "HR_ajcc_per_stage": 1.342,
+    "p_ajcc": 0.029209352027793442,
+    "CI_risk_per_SD": [
+      1.152,
+      1.722
+    ],
+    "HR_ajcc": 1.342,
+    "CI_ajcc": [
+      1.03,
+      1.748
+    ]
+  },
+  "tcga_dC_signature_vs_AJCC": {
+    "delta": 0.08,
+    "ci": [
+      -0.005,
+      0.159
+    ],
+    "p_one_sided": 0.0307
+  },
+  "tcga_dC_combined_vs_AJCC": {
+    "delta": 0.069,
+    "ci": [
+      0.023,
+      0.116
+    ],
+    "p_one_sided": 0.0018
+  },
+  "firehose": {
+    "n": 348,
+    "overlapping": 244,
+    "non_overlapping": 104
+  },
+  "firehose_validation": {
+    "all_348": {
+      "n": 343,
+      "events": 116,
+      "c_index": 0.642,
+      "logrank_p": 2.3637327385724495e-05,
+      "HR_high_vs_low": 1.499,
+      "HR_p": 6.5762957487052535e-06
+    },
+    "non_overlapping": {
+      "n": 103,
+      "events": 43,
+      "c_index": 0.572,
+      "logrank_p": 0.13137324424899124,
+      "HR_high_vs_low": 1.162,
+      "HR_p": 0.325636017893304
+    }
+  }
+}

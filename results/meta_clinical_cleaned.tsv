@@ -1,0 +1,264 @@
+case_id	gender	race	age_at_diagnosis	vital_status	ajcc_stage_raw	ajcc_t	ajcc_n	ajcc_m	vital_status_s	OS_time_days	OS_event	OS_days_cbio	OS_event_cbio	SEX	RACE	AGE	stage_derived	stage_group
+TCGA-XR-A8TC		white	15817.0	Alive	Stage I	T1	NX	MX	Alive	1339.0	0.0						Stage I	early
+TCGA-FV-A3R2	Male	White	27530.0	Dead	Stage I	T1	NX	MX	Dead	194.0	1.0	194.14669429024	1.0	Male	White	75.0	Stage I	early
+TCGA-FV-A3I0	Female	White	28101.0	Alive	Stage II	T2	NX	M0	Alive	848.0	0.0	848.6412203732	0.0	Female	White	76.0	Stage II	intermediate
+TCGA-BC-A112	Male	White	29511.0	Dead		T3	NX	MX	Dead	153.0	1.0	153.11569187928	1.0	Male	White	80.0	Stage IIIB	advanced
+TCGA-EP-A3JL	Male	White	27886.0	Alive	Stage I	T1	NX	MX	Alive	303.0	0.0	303.22911529392	0.0	Male	White	76.0	Stage I	early
+TCGA-ES-A2HS	Male	White	29268.0	Dead	Stage I	T1	NX	MX	Dead	688.0	1.0	688.5202352880001	1.0	Male	White	80.0	Stage I	early
+TCGA-DD-A3A6	Female	White	26319.0	Dead	Stage II	T2	N0	M0	Dead	3258.0	1.0	3260.4635582	1.0	Female	White	72.0	Stage II	intermediate
+TCGA-FV-A3I1	Female	White		Dead	Stage II	T2	N0	MX	Dead	247.0	1.0	247.18677055976002	1.0	Female	White	81.0	Stage II	intermediate
+TCGA-KR-A7K2	Male	White	23699.0	Alive	Stage I	T1	N0	M0	Alive	829.0	0.0	829.6268533696001	0.0	Male	White	64.0	Stage I	early
+TCGA-G3-A25W	Female	White	29018.0	Alive	Stage IIIB	T3b	N0	M0	Alive	935.0	0.0	935.7070060304001	0.0	Female	White	79.0	Stage IIIB	advanced
+TCGA-DD-A4NV	Male	White	22438.0	Alive	Stage IIIA	T3	N0	M0	Alive	2398.0	0.0	2399.8132622636003	0.0	Male	White	61.0	Stage IIIB	advanced
+TCGA-DD-AADF	Female	Asian	23614.0	Dead	Stage I	T1	N0	M0	Dead	115.0	1.0	115.08695796340001	1.0	Female	Asian	64.0	Stage I	early
+TCGA-ZP-A9D2	Male	White	18717.0	Dead		T2	NX	MX	Dead	765.0	1.0	765.5784593964	1.0	Male	White	51.0	Stage II	intermediate
+TCGA-DD-AACP	Male	Asian	23728.0	Alive	Stage I	T1	N0	M0	Alive	415.0	0.0	415.31380488400004	0.0	Male	Asian	64.0	Stage I	early
+TCGA-CC-5261	Male	Asian	16373.0	Dead	Stage II	T2	N0	M0	Dead	97.0	1.0	97.07334714512	1.0	Male	Asian	44.0	Stage II	intermediate
+TCGA-ZS-A9CD	Male	White	26915.0	Dead	Stage II	T2	NX	MX	Dead	1386.0	1.0	1387.0480324292	1.0	Male	White	73.0	Stage II	intermediate
+TCGA-UB-A7MD	Male	Black or African American	24717.0	Dead	Stage I	T1	N0	MX	Dead	52.0	1.0	52.039320114640006	1.0	Male	Black or African American	67.0	Stage I	early
+TCGA-2Y-A9HA	Male	White	25892.0	Dead	Stage II	T2	NX	MX	Dead	36.0	1.0	36.02722160612	1.0	Male	White	70.0	Stage II	intermediate
+TCGA-RC-A6M3	Male	American Indian or Alaska Native	8899.0	Alive	Stage II	T2	N0	M0	Alive	0.0	0.0	0.0	0.0	Male	American Indian or Alaska Native	24.0	Stage II	intermediate
+TCGA-ZP-A9CY	Female	White	24223.0	Alive		T1	NX	MX	Alive	782.0	0.0	782.591314212	0.0	Female	White	66.0	Stage I	early
+TCGA-DD-AAVZ	Male	Asian	14005.0	Alive	Stage I	T1	N0	M0	Alive	1900.0	0.0	1901.4366967072	0.0	Male	Asian	38.0	Stage I	early
+TCGA-DD-A1EC	Female	White	7363.0	Alive	Stage I	T1	N0	M0	Alive	602.0	0.0	602.4552060292	0.0	Female	White	20.0	Stage I	early
+TCGA-DD-AADN	Male	Asian	21632.0	Alive	Stage I	T1	NX	MX	Alive	898.0	0.0	898.6790281172	0.0	Male	Asian	59.0	Stage I	early
+TCGA-G3-A25T	Female	White	16461.0	Alive	Stage IIIA	T3	N0	M0	Alive	1553.0	0.0	1554.1743104768	0.0	Female	White	45.0	Stage IIIB	advanced
+TCGA-K7-A5RG	Male	Black or African American	24218.0	Alive	Stage I	T1	NX	MX	Alive	519.0	0.0	519.3924450524	0.0	Male	Black or African American	66.0	Stage I	early
+TCGA-WJ-A86L	Female	White	25018.0	Alive	Stage I	T1	NX	MX	Alive	345.0	0.0	345.260873738	0.0	Female	White	68.0	Stage I	early
+TCGA-DD-AACT	Female	Asian	25292.0	Alive	Stage I	T1	N0	M0	Alive	1562.0	0.0	1563.1811159316	0.0	Female	Asian	69.0	Stage I	early
+TCGA-FV-A4ZQ	Male	White	19090.0	Alive	Stage I	T1	NX	M0	Alive	12.0	0.0	12.009073889	0.0	Male	White	52.0	Stage I	early
+TCGA-WQ-AB4B	Male	White	22769.0	Alive	Stage II	T2	NX	M0	Alive	395.0	0.0	395.29868178640004	0.0	Male	White	62.0	Stage II	intermediate
+TCGA-LG-A9QD	Male	White	24969.0	Alive	Stage IIIA	T3a	N0	M0	Alive	366.0	0.0	366.276753234	0.0	Male	White	68.0	Stage IIIA	advanced
+TCGA-LG-A9QC	Male	White	17842.0	Alive	Stage I	T1	NX	M0	Alive	425.0	0.0	425.32136643280006	0.0	Male	White	48.0	Stage I	early
+TCGA-CC-A1HT	Male	Asian	18553.0	Dead	Stage IIIA	T3	N0	M0	Dead	101.0	1.0	101.07637176464	1.0	Male	Asian	50.0	Stage IIIB	advanced
+TCGA-DD-AADL	Male	Asian	21512.0	Alive	Stage I	T1	N0	M0	Alive	636.0	0.0	636.480915356	0.0	Male	Asian	58.0	Stage I	early
+TCGA-DD-AADS	Male	Asian	23227.0	Alive	Stage I	T1	N0	M0	Alive	474.0	0.0	474.35841808280003	0.0	Male	Asian	63.0	Stage I	early
+TCGA-K7-A5RF	Male	White	23557.0	Alive	Stage I	T1	NX	MX	Alive	631.0	0.0	631.4771345816	0.0	Male	White	64.0	Stage I	early
+TCGA-DD-AADA	Female	Asian	24288.0	Alive	Stage I	T1	N0	M0	Alive	1233.0	0.0	1233.9323406108	0.0	Female	Asian	66.0	Stage I	early
+TCGA-2Y-A9GU	Female	White	20187.0	Alive	Stage I	T1	NX	MX	Alive	1939.0	0.0	1940.4661868084	0.0	Female	White	55.0	Stage I	early
+TCGA-ED-A7PX	Female	Asian	17638.0	Alive	Stage II	T2	NX	M0	Alive	6.0	0.0	6.00453692928	0.0	Female	Asian	48.0	Stage II	intermediate
+TCGA-FV-A23B	Female	White	25788.0	Dead	Stage II	T2	N0	M0	Dead	1852.0	1.0	1853.4004011512002	1.0	Female	White	70.0	Stage II	intermediate
+TCGA-DD-AACO	Male	Asian	14796.0	Alive	Stage I	T1	N0	M0	Alive	1876.0	0.0	1877.4185489292001	0.0	Male	Asian	40.0	Stage I	early
+TCGA-G3-A7M7	Male	White	24002.0	Alive	Stage I	T1	NX	MX	Alive	361.0	0.0	361.27297245960006	0.0	Male	White	65.0	Stage I	early
+TCGA-MR-A8JO	Male	White	12669.0	Alive	Stage I	T1	N0	MX	Alive	330.0	0.0	330.24953141480006	0.0	Male	White	34.0	Stage I	early
+TCGA-CC-5262	Male	Asian	24787.0	Dead	Stage IIIC	T4	N0	M0	Dead	103.0	1.0	103.0778840744	1.0	Male	Asian	67.0	Stage IIIC	advanced
+TCGA-DD-AADK	Female	Asian	25046.0	Alive	Stage II	T2	N0	M0	Alive	1049.0	0.0	1049.7932077476	0.0	Female	Asian	68.0	Stage II	intermediate
+TCGA-DD-AAE1	Male	Asian	19073.0	Alive	Stage I	T1	N0	M0	Alive	552.0	0.0	552.4173982852001	0.0	Male	Asian	52.0	Stage I	early
+TCGA-DD-AAE9	Male	Asian	25451.0	Alive	Stage I	T1	N0	M0	Alive	722.0	0.0	722.5459446148001	0.0	Male	Asian	69.0	Stage I	early
+TCGA-BC-A10U	Male	White	25305.0	Dead		T2	NX	MX	Dead	837.0	1.0	837.6329027304	1.0	Male	White	69.0	Stage II	intermediate
+TCGA-DD-AAVP	Male	Asian	17833.0	Alive	Stage I	T1	N0	M0	Alive	2752.0	0.0	2754.0809414564	0.0	Male	Asian	48.0	Stage I	early
+TCGA-BC-4073	Male	White	26795.0	Alive	Stage IIIA	T3	N0	MX	Alive	849.0	0.0	849.6419764672	0.0	Male	White	73.0	Stage IIIB	advanced
+TCGA-MI-A75E	Male	White	22457.0	Alive	Stage IIIC	T4	N0	M0	Alive	507.0	0.0	507.3833710112	0.0	Male	White	61.0	Stage IIIC	advanced
+TCGA-G3-A7M8	Male	Asian	11527.0	Alive	Stage I	T1	NX	MX	Alive	430.0	0.0	430.3251472072	0.0	Male	Asian	31.0	Stage I	early
+TCGA-DD-A11C	Male	White	25403.0	Alive	Stage I	T1	N0	M0	Alive	662.0	0.0	662.500575322	0.0	Male	White	69.0	Stage I	early
+TCGA-DD-A114	Male	Black or African American	15410.0	Dead	Stage II	T2		M0	Dead	1149.0	1.0	1149.8688232356	1.0	Male	Black or African American	42.0	Stage II	intermediate
+TCGA-WX-AA46	Male	White	22639.0	Alive	Stage II	T2	NX	MX	Alive	756.0	0.0	756.5716539416001	0.0	Male	White	61.0	Stage II	intermediate
+TCGA-DD-AAW2	Male	Asian	25420.0	Alive	Stage I	T1	N0	M0	Alive	1855.0	0.0	1856.4026694332001	0.0	Male	Asian	69.0	Stage I	early
+TCGA-DD-AAD2	Male	Asian	24221.0	Alive	Stage I	T1	N0	M0	Alive	658.0	0.0	658.4975506416	0.0	Male	Asian	66.0	Stage I	early
+TCGA-5C-A9VG	Male	White	21273.0	Alive	Stage II	T2	N0	M0	Alive	328.0	0.0	328.2480192268	0.0	Male	White	58.0	Stage II	intermediate
+TCGA-BC-A3KF	Female	White	24328.0	Alive	Stage I	T1	NX	M0	Alive	8.0	0.0	8.00604923904	0.0	Female	White	66.0	Stage I	early
+TCGA-G3-A25X	Male	Asian	26988.0	Alive	Stage II	T2	N0	M0	Alive	1779.0	0.0	1780.3452017232	0.0	Male	Asian	73.0	Stage II	intermediate
+TCGA-RG-A7D4	Male	Black or African American	25302.0	Alive	Stage II	T2	N0	M0	Alive	1098.0	0.0	1098.8302593976	0.0	Male	Black or African American	69.0	Stage II	intermediate
+TCGA-G3-AAV4	Female	White	30466.0	Dead	Stage I	T1	N0	M0	Dead	27.0	1.0	27.0204162122	1.0	Female	White	83.0	Stage I	early
+TCGA-DD-AAD0	Female	Asian	26781.0	Alive	Stage I	T1	N0	M0	Alive	137.0	0.0	137.10359340120002	0.0	Female	Asian	73.0	Stage I	early
+TCGA-DD-AACN	Male	Asian	12007.0	Alive	Stage I	T1	N0	M0	Alive	1302.0	0.0	1302.9845153584	0.0	Male	Asian	32.0	Stage I	early
+TCGA-DD-AAD3	Male	Asian	15706.0	Alive	Stage I	T1	N0	M0	Alive	1295.0	0.0	1295.9792220916001	0.0	Male	Asian	43.0	Stage I	early
+TCGA-2Y-A9GZ	Female	White	30082.0	Dead	Stage II	T2	NX	MX	Dead	848.0	1.0	848.6412203732	1.0	Female	White	82.0	Stage II	intermediate
+TCGA-DD-A1ED	Male	White	25039.0	Alive	Stage I	T1	N0	M0	Alive	2301.0	0.0	2302.7399150576	0.0	Male	White	68.0	Stage I	early
+TCGA-DD-AAW0	Male	Asian	19981.0	Alive	Stage I	T1	N0	M0	Alive	2015.0	0.0	2016.5236545184	0.0	Male	Asian	54.0	Stage I	early
+TCGA-G3-A7M9	Male	White	25588.0	Dead	Stage IIIB	T3b	NX	MX	Dead	56.0	1.0	56.042344734160004	1.0	Male	White	70.0	Stage IIIB	advanced
+TCGA-DD-AAVW	Male	Asian	12986.0	Alive	Stage I	T1	N0	M0	Alive	2317.0	0.0	2318.7520137792003	0.0	Male	Asian	35.0	Stage I	early
+TCGA-BD-A2L6	Male	White	25489.0	Alive		T2	NX	MX	Alive	1363.0	0.0	1364.0306407452001	0.0	Male	White	69.0	Stage II	intermediate
+TCGA-G3-AAV2	Male	White	18363.0	Alive	Stage I	T1	N0	M0	Alive	372.0	0.0	372.2812901024	0.0	Male	White	50.0	Stage I	early
+TCGA-DD-AACM	Male	Asian	17590.0	Alive	Stage II	T2	N0	M0	Alive	1769.0	0.0	1770.3376401744	0.0	Male	Asian	48.0	Stage II	intermediate
+TCGA-CC-A8HU	Female	Asian	14367.0	Dead	Stage IIIA	T3	N0	M0	Dead	344.0	1.0	344.26011764400005	1.0	Female	Asian	39.0	Stage IIIB	advanced
+TCGA-DD-A4NB	Male	White	9426.0	Alive	Stage I	T1	N0	M0	Alive	989.0	0.0	989.7478384548001	0.0	Male	White	25.0	Stage I	early
+TCGA-PD-A5DF	Female	White	21414.0	Dead	Stage IIIB	T4	N0	M0	Dead	639.0	1.0	639.483183638	1.0	Female	White	58.0	Stage IIIC	advanced
+TCGA-DD-A11B	Male	White	26857.0	Dead	Stage I	T1	N0	M0	Dead	14.0	1.0	14.01058619876	1.0	Male	White	73.0	Stage I	early
+TCGA-GJ-A6C0	Female	White	27626.0	Dead	Stage II	T2	NX	MX	Dead	31.0	1.0	31.023440831720002	1.0	Female	White	75.0	Stage II	intermediate
+TCGA-DD-A1EF	Female	White	21165.0	Dead	Stage I	T1	N0	M0	Dead	394.0	1.0	394.29792538800007	1.0	Female	White	57.0	Stage I	early
+TCGA-XR-A8TG	Male	White	21544.0	Alive	Stage I	T1	NX	M0	Alive	898.0	0.0	898.6790281172	0.0	Male	White	58.0	Stage I	early
+TCGA-DD-AADJ	Female	Asian	25863.0	Alive	Stage I	T1	N0	M0	Alive	1066.0	0.0	1066.8060625632002	0.0	Female	Asian	70.0	Stage I	early
+TCGA-XR-A8TF	Male	White	27145.0	Dead	Stage I	T1	NX	MX	Dead	693.0	1.0	693.5240160624	1.0	Male	White	74.0	Stage I	early
+TCGA-DD-AAD1	Female	Asian	18794.0	Alive	Stage I	T1	N0	M0	Alive	564.0	0.0	564.426472022	0.0	Female	Asian	51.0	Stage I	early
+TCGA-ZP-A9CZ	Male	Asian	26403.0	Alive		T1	NX	MX	Alive	706.0	0.0	706.5338461975999	0.0	Male	Asian	72.0	Stage I	early
+TCGA-CC-A7IE	Male	Asian	20985.0	Dead	Stage IIIA	T3	N0	M0	Dead	217.0	1.0	217.16408588292003	1.0	Male	Asian	57.0	Stage IIIB	advanced
+TCGA-MI-A75G	Male	White	23284.0	Alive	Stage II	T2	N0	M0	Alive	698.0	0.0	698.5277968368	0.0	Male	White	63.0	Stage II	intermediate
+TCGA-G3-A25Y	Female	Asian	19055.0	Dead	Stage I	T1	N0	M0	Dead	452.0	1.0	452.3417824928	1.0	Female	Asian	52.0	Stage I	early
+TCGA-DD-A73D	Female	White	24941.0	Alive	Stage II	T2	NX	MX	Alive	693.0	0.0	693.5240160624	0.0	Female	White	68.0	Stage II	intermediate
+TCGA-DD-AAD8	Female	Asian	26781.0	Alive	Stage I	T1	N0	M0	Alive	1219.0	0.0	1219.9217543816	0.0	Female	Asian	73.0	Stage I	early
+TCGA-MR-A520	Male	White	21398.0	Alive	Stage I	T1	NX	MX	Alive	229.0	0.0	229.17315974148	0.0	Male	White	58.0	Stage I	early
+TCGA-G3-A7M6	Female	White	22205.0	Alive	Stage I	T1	NX	MX	Alive	632.0	0.0	632.4778906756	0.0	Female	White	60.0	Stage I	early
+TCGA-RC-A7SB	Male	Asian	19698.0	Alive	Stage II	T2	N0	M0	Alive	588.0	0.0	588.4446198	0.0	Male	Asian	53.0	Stage II	intermediate
+TCGA-5R-AA1C	Male	White	21073.0	Alive	Stage II	T2	N0	M0	Alive	520.0	0.0	520.3932011464001	0.0	Male	White	57.0	Stage II	intermediate
+TCGA-ED-A8O5	Female	Asian	21648.0	Alive	Stage IIIA	T3a	N0	M0	Alive	406.0	0.0	406.3069994292	0.0	Female	Asian	59.0	Stage IIIA	advanced
+TCGA-CC-A3MB	Male	Asian	13255.0	Dead	Stage IIIA	T3	N0	M0	Dead	315.0	1.0	315.2381890916	1.0	Male	Asian	36.0	Stage IIIB	advanced
+TCGA-HP-A5MZ	Male	not reported	22702.0	Dead	Stage I	T1	NX	M0	Dead	91.0	1.0	91.06881021584	1.0	Male		78.0	Stage I	early
+TCGA-RC-A6M4	Female	White	27327.0	Alive	Stage IIIA	T3	NX	MX	Alive	22.0	0.0	22.0166354378	0.0	Female	White	74.0	Stage IIIB	advanced
+TCGA-G3-A25Z	Male	Asian	21509.0	Alive	Stage I	T1	N0	M0	Alive	655.0	0.0	655.4952823596001	0.0	Male	Asian	58.0	Stage I	early
+TCGA-DD-AAW1	Male	Asian	20288.0	Alive	Stage IIIA	T3	N0	M0	Alive	1989.0	0.0	1990.5039945524	0.0	Male	Asian	55.0	Stage IIIB	advanced
+TCGA-ED-A66Y	Female	Asian	18797.0	Dead	Stage IIIA	T3a	N0	M0	Dead	296.0	1.0	296.22382220976	1.0	Female	Asian	51.0	Stage IIIA	advanced
+TCGA-2Y-A9H8	Female	White	31322.0	Dead		T1	NX	MX	Dead	633.0	1.0	633.4786467696001	1.0	Female	White	85.0	Stage I	early
+TCGA-DD-A3A2	Female	White	27930.0	Dead	Stage I	T1	N0	M0	Dead	2131.0	1.0	2132.6113687280003	1.0	Female	White	76.0	Stage I	early
+TCGA-ZP-A9D0	Female	Black or African American	24525.0	Alive		T1	NX	MX	Alive	1091.0	0.0	1091.8249664352	0.0	Female	Black or African American	67.0	Stage I	early
+TCGA-BC-A10W	Male	Asian	18562.0	Dead		T4	NX	MX	Dead	91.0	1.0	91.06881021584	1.0	Male	Asian	50.0	Stage IIIC	advanced
+TCGA-WX-AA47	Female	White	12056.0	Dead	Stage IIIA	T3a	NX	MX	Dead	556.0	1.0	556.4204226612	1.0	Female	White	33.0	Stage IIIA	advanced
+TCGA-G3-A3CK	Male	Asian	22462.0	Alive	Stage I	T1	N0	M0	Alive	585.0	0.0	585.4423512136001	0.0	Male	Asian	61.0	Stage I	early
+TCGA-G3-A3CH	Male	Asian	19473.0	Alive	Stage IIIA	T3a	N0	M0	Alive	780.0	0.0	780.5898017196	0.0	Male	Asian	53.0	Stage IIIA	advanced
+TCGA-DD-A1EI	Male	Asian	17097.0	Alive	Stage I	T1	N0	M0	Alive	183.0	0.0	183.13837655612	0.0	Male	Asian	46.0	Stage I	early
+TCGA-DD-AAEE	Male	Asian	20396.0	Alive	Stage I	T1	N0	M0	Alive	810.0	0.0	810.6124863660001	0.0	Male	Asian	55.0	Stage I	early
+TCGA-DD-AAE3	Male	Asian	18271.0	Alive	Stage I	T1	N0	M0	Alive	566.0	0.0	566.4279845144	0.0	Male	Asian	50.0	Stage I	early
+TCGA-DD-AACL	Female	Asian	24355.0	Dead	Stage I	T1	N0	M0	Dead	107.0	1.0	107.08090869392001	1.0	Female	Asian	66.0	Stage I	early
+TCGA-BC-A10X	Female	White	19140.0	Dead	Stage IIIA	T3a	N0	MX	Dead	770.0	1.0	770.5822401708	1.0	Female	White	52.0	Stage IIIA	advanced
+TCGA-FV-A3R3	Female	White	14231.0	Dead	Stage I	T1	NX	MX	Dead	366.0	1.0	366.276753234	1.0	Female	White	38.0	Stage I	early
+TCGA-ZS-A9CG	Male	White	20100.0	Alive	Stage II	T2	NX	MX	Alive	341.0	0.0	341.257849362	0.0	Male	White	55.0	Stage II	intermediate
+TCGA-DD-AAD6	Male	Asian	24185.0	Alive	Stage IIIA	T3a	N0	M0	Alive	672.0	0.0	672.5081368708	0.0	Male	Asian	66.0	Stage IIIA	advanced
+TCGA-DD-AACD	Male	Asian	17828.0	Dead	Stage I	T1	N0	M0	Dead	381.0	1.0	381.28809555720005	1.0	Male	Asian	48.0	Stage I	early
+TCGA-NI-A8LF	Male	White	27162.0	Alive	Stage I	T1	NX	MX	Alive	799.0	0.0	799.6041687232	0.0	Male	White	74.0	Stage I	early
+TCGA-ZP-A9D4	Female	White	23656.0	Alive		T1	NX	MX	Alive	395.0	0.0	395.29868178640004	0.0	Female	White	64.0	Stage I	early
+TCGA-DD-AAE7	Male	Asian	26544.0	Alive	Stage I	T1	N0	M0	Alive	644.4869644124	0.0	644.4869644124	0.0	Male	Asian	72.0	Stage I	early
+TCGA-DD-A39Z	Female	not reported	15930.0	Dead	Stage II	T2	NX	M0	Dead	601.0	1.0	601.4544499352	1.0	Female		43.0	Stage II	intermediate
+TCGA-DD-AACX	Male	Asian	24329.0	Alive	Stage II	T2	N0	M0	Alive	170.0	0.0	170.12854654268	0.0	Male	Asian	66.0	Stage II	intermediate
+TCGA-EP-A2KA	Female	White	19214.0	Dead	Stage IIIA	T3a	NX	MX	Dead	627.0	1.0	627.4741099012001	1.0	Female	White	52.0	Stage IIIA	advanced
+TCGA-ZP-A9D1	Female	White	20584.0	Alive		T1	NX	MX	Alive	21.0	0.0	21.01587928292	0.0	Female	White	56.0	Stage I	early
+TCGA-DD-A115	Male	White	19697.0	Dead	Stage IIIA	T3	N0	M0	Dead	2542.0	1.0	2543.9221489316	1.0	Male	White	53.0	Stage IIIB	advanced
+TCGA-GJ-A9DB	Male	White	25020.0	Dead	Stage I	T1	N0	MX	Dead	67.0	1.0	67.05066246828001	1.0	Male	White	68.0	Stage I	early
+TCGA-DD-A73G	Female	White	26949.0	Alive	Stage I	T1	N0	M0	Alive	3478.0	0.0	3480.6299110560003	0.0	Female	White	73.0	Stage I	early
+TCGA-5R-AAAM	Female	White	24020.0	Dead	Stage II	T2	N0	M0	Dead	46.0	1.0	46.03478318536	1.0	Female	White	65.0	Stage II	intermediate
+TCGA-DD-AADQ	Male	Asian	21756.0	Alive	Stage II	T2	N0	M0	Alive	436.0	0.0	436.3296840756	0.0	Male	Asian	59.0	Stage II	intermediate
+TCGA-DD-A39W	Female	White	10699.0	Dead	Stage III	T3	N0	M0	Dead	827.0	1.0	827.6253411816	1.0	Female	White	29.0	Stage IIIB	advanced
+TCGA-WQ-A9G7	Female	White		Alive		T3a	NX	M0	Alive	30.0	0.0	30.02268467684	0.0	Female	White	71.0	Stage IIIA	advanced
+TCGA-2Y-A9H0	Male	White	18109.0	Alive	Stage IIIA	T3	N0	M0	Alive	3675.0	0.0	3677.7788752720003	0.0	Male	White	49.0	Stage IIIB	advanced
+TCGA-DD-AAC8	Male	Asian	26322.0	Dead	Stage I	T1	N0	M0	Dead	16.0	1.0	16.01209850852	1.0	Male	Asian	72.0	Stage I	early
+TCGA-KR-A7K8	Male	Unknown	20914.0	Alive	Stage I	T1	N0	M0	Alive	906.0	0.0	906.685077478	0.0	Male		57.0	Stage I	early
+TCGA-BC-A216	Female	White	22968.0	Alive	Stage IIIA	T3	NX	M0	Alive	1351.0	0.0	1352.0215670084	0.0	Female	White	62.0	Stage IIIB	advanced
+TCGA-DD-AADV	Male	Asian	18300.0	Alive	Stage I	T1	N0	M0	Alive	574.0	0.0	574.4340335708	0.0	Male	Asian	50.0	Stage I	early
+TCGA-DD-A3A3	Male	Asian	16708.0	Dead	Stage I	T1	N0	M0	Dead	535.0	1.0	535.4045434696	1.0	Male	Asian	45.0	Stage I	early
+TCGA-2Y-A9H5	Female	White	21818.0	Dead	Stage I	T1	N0	MX	Dead	555.0	1.0	555.4196665672	1.0	Female	White	59.0	Stage I	early
+TCGA-DD-A1EJ	Female	White	26009.0	Dead	Stage IIIC	T1	N1	M0	Dead	1005.0	1.0	1005.759936872	1.0	Female	White	71.0	Stage IVA	advanced
+TCGA-DD-AAED	Male	Asian	18722.0	Alive	Stage I	T1	N0	M0	Alive	763.0	0.0	763.5769472084	0.0	Male	Asian	51.0	Stage I	early
+TCGA-DD-A4NR	Female	White	31386.0	Dead	Stage I	T1	N0	M0	Dead	9.0	1.0	9.00680539392	1.0	Female	White	85.0	Stage I	early
+TCGA-CC-A7IG	Male	Asian	17453.0	Dead	Stage II	T2	N0	M0	Dead	299.0	1.0	299.2260906744	1.0	Male	Asian	47.0	Stage II	intermediate
+TCGA-ED-A459	Male	Asian	17402.0	Alive	Stage II	T2	N0	M0	Alive	910.0	0.0	910.6881021584	0.0	Male	Asian	47.0	Stage II	intermediate
+TCGA-DD-AAE2	Male	Asian	18695.0	Alive	Stage I	T1	N0	M0	Alive	638.0	0.0	638.482427544	0.0	Male	Asian	51.0	Stage I	early
+TCGA-DD-AAW3	Male	Asian	25254.0	Alive	Stage I	T1	N0	M0	Alive	1633.0	0.0	1634.2348028672	0.0	Male	Asian	69.0	Stage I	early
+TCGA-DD-AA3A	Female	White	29712.0	Dead	Stage I	T1	N0	MX	Dead	410.0	1.0	410.3100241096	1.0	Female	White	81.0	Stage I	early
+TCGA-XR-A8TD	Female	White	17908.0	Alive	Stage IIIB	T3	N0	M0	Alive	1030.0	0.0	1030.778840744	0.0	Female	White	49.0	Stage IIIB	advanced
+TCGA-BC-A10S	Male	White	29842.0	Dead		T3	NX	MX	Dead	1423.0	1.0	1424.076010038	1.0	Male	White	81.0	Stage IIIB	advanced
+TCGA-BC-4072	Female	White	27162.0	Dead	Stage IIIA	T3	N0	M0	Dead	1490.0	1.0	1491.1266725976	1.0	Female	White	74.0	Stage IIIB	advanced
+TCGA-G3-AAV7	Male	Asian	14229.0	Alive	Stage II	T2	N0	M0	Alive	361.0	0.0	361.27297245960006	0.0	Male	Asian	38.0	Stage II	intermediate
+TCGA-CC-A9FU	Female	Asian	19326.0	Alive	Stage IIIA	T3a	N0	M0	Alive	0.0	0.0	0.0	0.0	Female	Asian	52.0	Stage IIIA	advanced
+TCGA-DD-AAE0	Female	Asian	16732.0	Alive	Stage IIIA	T3a	N0	M0	Alive	555.0	0.0	555.4196665672	0.0	Female	Asian	45.0	Stage IIIA	advanced
+TCGA-DD-AADB	Male	Asian	18728.0	Alive	Stage I	T1	N0	M0	Alive	1242.0	0.0	1242.9391457612	0.0	Male	Asian	51.0	Stage I	early
+TCGA-DD-A11A	Male	Black or African American	24646.0	Alive	Stage I	T1	N0	M0	Alive	79.0	0.0	79.05973632684	0.0	Male	Black or African American	67.0	Stage I	early
+TCGA-5C-A9VH	Male	White	25608.0	Alive	Stage I	T1	N0	M0	Alive	322.0	0.0	322.2434823584	0.0	Male	White	70.0	Stage I	early
+TCGA-CC-A3MA	Male	Asian	22375.0	Dead	Stage IIIA	T3	N0	M0	Dead	303.0	1.0	303.22911529392	1.0	Male	Asian	61.0	Stage IIIB	advanced
+TCGA-CC-5264	Male	Asian	25979.0	Dead	Stage IIIA	T3	N0	M0	Dead	102.0	1.0	102.07712791952001	1.0	Male	Asian	71.0	Stage IIIB	advanced
+TCGA-DD-AADM	Male	Asian	21349.0	Dead	Stage II	T2	N0	M0	Dead	12.0	1.0	12.009073889	1.0	Male	Asian	58.0	Stage II	intermediate
+TCGA-DD-A119	Male	Asian	14613.0	Dead	Stage IV	T3a	N0	M1	Dead	223.0	1.0	223.1686228122	1.0	Male	Asian	40.0	Stage IVB	advanced
+TCGA-DD-AACW	Male	Asian	15872.0	Alive	Stage I	T1	N0	M0	Alive	1424.0	0.0	1425.0767664364	0.0	Male	Asian	43.0	Stage I	early
+TCGA-CC-5258	Male	Asian	17586.0	Dead	Stage II	T2	N0	M0	Dead	129.0	1.0	129.09754413172	1.0	Male	Asian	48.0	Stage II	intermediate
+TCGA-BC-A5W4	Male	White	25503.0	Dead	Stage 0	Tis	NX	M0	Dead	547.0	1.0	547.4136175108	1.0	Male	White	69.0	Stage 0	early
+TCGA-DD-A1EG	Male	White	28108.0	Dead	Stage I	T1	N0	M0	Dead	1372.0	1.0	1373.0374462	1.0	Male	White	76.0	Stage I	early
+TCGA-DD-AACB	Female	Asian	27103.0	Alive	Stage I	T1	N0	M0	Alive	2324.0	0.0	2325.7573067416	0.0	Female	Asian	74.0	Stage I	early
+TCGA-BC-A217	Female	White	27411.0	Dead	Stage II	T2	NX	M0	Dead	1397.0	1.0	1398.0563500720002	1.0	Female	White	75.0	Stage II	intermediate
+TCGA-G3-AAV0	Male	Asian	21249.0	Alive	Stage I	T1	N0	M0	Alive	476.0	0.0	476.3599302708	0.0	Male	Asian	58.0	Stage I	early
+TCGA-DD-AAEK	Male	Asian	18757.0	Alive	Stage II	T2	N0	M0	Alive	1067.0	0.0	1067.8068186572	0.0	Male	Asian	51.0	Stage II	intermediate
+TCGA-BC-A10Z	Female	White	22913.0	Dead	Stage I	T1	N0	MX	Dead	34.0	1.0	34.02570929636	1.0	Female	White	62.0	Stage I	early
+TCGA-BC-A69I	Male	White	25370.0	Alive	Stage I	T1	N0	M0	Alive	387.0	0.0	387.2926324256	0.0	Male	White	69.0	Stage I	early
+TCGA-EP-A2KC	Male	Black or African American	22677.0	Dead	Stage I	T1	NX	MX	Dead	19.0	1.0	19.01436697316	1.0	Male	Black or African American	62.0	Stage I	early
+TCGA-2Y-A9GY	Female	White	23435.0	Dead	Stage II	T2	NX	MX	Dead	757.0	1.0	757.5724100356	1.0	Female	White	64.0	Stage II	intermediate
+TCGA-O8-A75V	Male	Unknown	19850.0	Alive	Stage I	T1	NX	MX	Alive	538.0	0.0	538.406812056	0.0	Male		54.0	Stage I	early
+TCGA-BC-A69H	Male	White	23380.0	Alive	Stage II	T2	NX	M0	Alive	444.0	0.0	444.3357334364	0.0	Male	White	64.0	Stage II	intermediate
+TCGA-5C-AAPD	Male	Asian	22552.0	Alive	Stage II	T2	N0	M0	Alive	20.0	0.0	20.015123128040003	0.0	Male	Asian	61.0	Stage II	intermediate
+TCGA-ZS-A9CE	Female	White	29051.0	Alive	Stage II	T2	NX	MX	Alive	1241.0	0.0	1241.9383896672	0.0	Female	White	79.0	Stage II	intermediate
+TCGA-DD-A118	Female	White	28406.0	Alive	Stage II	T2	N0	M0	Alive	3437.0	0.0	3439.59890968	0.0	Female	White	77.0	Stage II	intermediate
+TCGA-ES-A2HT	Male	Black or African American	20023.0	Dead	Stage I	T1	NX	MX	Dead	438.0	1.0	438.3311962636	1.0	Male	Black or African American	54.0	Stage I	early
+TCGA-ED-A8O6	Female	Asian	18572.0	Dead	Stage IIIA	T3a	N0	M0	Dead	56.0	1.0	56.042344734160004	1.0	Female	Asian	50.0	Stage IIIA	advanced
+TCGA-2Y-A9H4	Male	Black or African American	25096.0	Alive	Stage I	T1	N0	MX	Alive	1452.0	0.0	1453.0979385904	0.0	Male	Black or African American	68.0	Stage I	early
+TCGA-DD-A1E9	Male	White	25808.0	Dead	Stage I	T1	N0	M0	Dead	2759.0	1.0	2761.0862347232	1.0	Male	White	70.0	Stage I	early
+TCGA-K7-A6G5	Male	White	24233.0	Alive	Stage I	T1	N0	MX	Alive	512.0	0.0	512.3871517856	0.0	Male	White	66.0	Stage I	early
+TCGA-DD-AACS	Male	Asian	14473.0	Alive	Stage I	T1	N0	M0	Alive	1804.0	0.0	1805.3641055952	0.0	Male	Asian	39.0	Stage I	early
+TCGA-DD-AAVR	Male	Asian	16157.0	Alive	Stage I	T1	N0	M0	Alive	2513.0	0.0	2514.9002203792	0.0	Male	Asian	44.0	Stage I	early
+TCGA-G3-A7M5	Male	Asian	27963.0	Alive	Stage I	T1	NX	MX	Alive	447.0	0.0	447.3380017184	0.0	Male	Asian	76.0	Stage I	early
+TCGA-DD-A73F	Female	White	28234.0	Alive	Stage I	T1	N0	M0	Alive	1085.0	0.0	1085.8204292624	0.0	Female	White	77.0	Stage I	early
+TCGA-ED-A7PZ	Male	Asian	22601.0	Alive	Stage II	T2	NX	M0	Alive	6.0	0.0	6.00453692928	0.0	Male	Asian	61.0	Stage II	intermediate
+TCGA-ED-A97K	Male	Asian	20073.0	Alive	Stage IIIA	T3a	N0	M0	Alive	6.0	0.0	6.00453692928	0.0	Male	Asian	54.0	Stage IIIA	advanced
+TCGA-DD-A3A1	Male	not reported	24046.0	Dead	Stage IIIA	T3b	N0	M0	Dead	233.0	1.0	233.17618436100003	1.0	Male		65.0	Stage IIIB	advanced
+TCGA-G3-A6UC	Male	White	23793.0	Alive	Stage IIIB	T3b	N0	M0	Alive	671.0	0.0	671.5073807768	0.0	Male	White	65.0	Stage IIIB	advanced
+TCGA-DD-AACU	Male	Asian	21606.0	Alive	Stage I	T1	N0	M0	Alive	1567.0	0.0	1568.184896706	0.0	Male	Asian	59.0	Stage I	early
+TCGA-DD-AADR	Male	Asian	21217.0	Alive	Stage I	T1	N0	M0	Alive	2028.0	0.0	2029.5334846536	0.0	Male	Asian	58.0	Stage I	early
+TCGA-FV-A496	Female	White	30950.0	Alive	Stage I	T1	NX	M0	Alive	10.0	0.0	10.0075615488	0.0	Female	White	84.0	Stage I	early
+TCGA-DD-AACV	Male	Asian	19660.0	Alive	Stage I	T1	N0	M0	Alive	1531.0	0.0	1532.1576748868001	0.0	Male	Asian	53.0	Stage I	early
+TCGA-DD-AAVV	Male	Asian	20751.0	Alive	Stage II	T2	N0	M0	Alive	2455.0	0.0	2456.8563632744	0.0	Male	Asian	56.0	Stage II	intermediate
+TCGA-ZP-A9CV	Male	White	21633.0	Dead		T1	NX	MX	Dead	1088.0	1.0	1088.8226978487999	1.0	Male	White	59.0	Stage I	early
+TCGA-DD-AACJ	Male	Asian	27528.0	Alive	Stage II	T2	N0	M0	Alive	2102.0	0.0	2103.5894401756	0.0	Male	Asian	75.0	Stage II	intermediate
+TCGA-EP-A12J	Male	Black or African American	22997.0	Alive	Stage I	T1	NX	MX	Alive	570.0	0.0	570.4310088904	0.0	Male	Black or African American	62.0	Stage I	early
+TCGA-DD-AADP	Male	Asian	16760.0	Alive	Stage I	T1	N0	M0	Alive	458.0	0.0	458.3463193612	0.0	Male	Asian	45.0	Stage I	early
+TCGA-DD-AADI	Female	Asian	15928.0	Alive	Stage I	T1	N0	M0	Alive	1085.0	0.0	1085.8204292624	0.0	Female	Asian	43.0	Stage I	early
+TCGA-G3-A5SL	Male	White	25671.0	Alive	Stage II	T2	NX	M0	Alive	621.0	0.0	621.4695730328001	0.0	Male	White	70.0	Stage II	intermediate
+TCGA-2Y-A9H3	Male	White	16443.0	Alive	Stage II	T2	NX	MX	Alive	1516.0	0.0	1517.1463325636003	0.0	Male	White	45.0	Stage II	intermediate
+TCGA-DD-AADO	Male	Asian	20139.0	Alive	Stage I	T1	N0	M0	Alive	453.0	0.0	453.3425385868	0.0	Male	Asian	55.0	Stage I	early
+TCGA-DD-AAVS	Male	Asian	20586.0	Alive	Stage I	T1	N0	M0	Alive	1823.0	0.0	1824.3784725988	0.0	Male	Asian	56.0	Stage I	early
+TCGA-ED-A7PY	Female	Asian	7556.0	Alive	Stage II	T2	NX	M0	Alive	390.0	0.0	390.294901012	0.0	Female	Asian	20.0	Stage II	intermediate
+TCGA-ED-A627	Male	White	27303.0	Alive	Stage I	T1	NX	M0	Alive	423.0	0.0	423.31985394040004	0.0	Male	White	74.0	Stage I	early
+TCGA-DD-AAE6	Female	Asian	21764.0	Alive	Stage I	T1	N0	M0	Alive	141.0	0.0	141.10661802072002	0.0	Female	Asian	59.0	Stage I	early
+TCGA-RC-A6M6	Male	White	27649.0	Alive	Stage II	T2	NX	M0	Alive	9.0	0.0	9.00680539392	0.0	Male	White	75.0	Stage II	intermediate
+TCGA-DD-A4NS	Female	White	22638.0	Dead	Stage I	T1	N0	M0	Dead	2456.0	1.0	2457.8571193684	1.0	Female	White	61.0	Stage I	early
+TCGA-CC-5263	Male	Asian	12863.0	Dead	Stage IIIA	T3	N0	M0	Dead	129.0	1.0	129.09754413172	1.0	Male	Asian	35.0	Stage IIIB	advanced
+TCGA-MI-A75C	Male	White	23441.0	Alive	Stage I	T1	N0	M0	Alive	291.0	0.0	291.22004143536003	0.0	Male	White	64.0	Stage I	early
+TCGA-ED-A82E	Female	Asian	22234.0	Alive	Stage IIIA	T3a	N0	M0	Alive	408.0	0.0	408.30851161720005	0.0	Female	Asian	60.0	Stage IIIA	advanced
+TCGA-DD-AAC9	Male	Asian	18911.0	Alive	Stage I	T1	N0	M0	Alive	347.0	0.0	347.2623862304	0.0	Male	Asian	51.0	Stage I	early
+TCGA-DD-AAEA	Male	Asian	24027.0	Alive	Stage I	T1	N0	M0	Alive	575.0	0.0	575.4347896648001	0.0	Male	Asian	65.0	Stage I	early
+TCGA-DD-A3A0	Male	White	25889.0	Dead	Stage I	T1	NX	M0	Dead	785.0	1.0	785.593582494	1.0	Male	White	70.0	Stage I	early
+TCGA-QA-A7B7	Male	Black or African American	17636.0	Alive	Stage II	T2	NX	MX	Alive	94.0	0.0	94.07107868048001	0.0	Male	Black or African American	48.0	Stage II	intermediate
+TCGA-2Y-A9HB	Male	not reported	24359.0	Alive	Stage I	T1	NX	MX	Alive	260.0	0.0	260.19660057320004	0.0	Male		66.0	Stage I	early
+TCGA-DD-AADD	Male	Asian	18752.0	Alive	Stage I	T1	N0	M0	Alive	1231.0	0.0	1231.9308281184	0.0	Male	Asian	51.0	Stage I	early
+TCGA-G3-A3CI	Male	White	26224.0	Alive	Stage I	T1	N0	M0	Alive	180.0	0.0	180.13610809148	0.0	Male	White	71.0	Stage I	early
+TCGA-CC-A7IL	Male	Asian	22319.0	Dead	Stage IIIA	T3	N0	M0	Dead	278.0	1.0	278.21021139148	1.0	Male	Asian	61.0	Stage IIIB	advanced
+TCGA-DD-A73A	Male	White	26136.0	Alive	Stage I	T1	N0	M0	Alive	728.0	0.0	728.5504817876001	0.0	Male	White	71.0	Stage I	early
+TCGA-ED-A66X	Male	Asian	12947.0	Alive	Stage IIIA	T3a	N0	M0	Alive	406.0	0.0	406.3069994292	0.0	Male	Asian	35.0	Stage IIIA	advanced
+TCGA-EP-A26S	Male	White	25677.0	Alive	Stage I	T1	N0	MX	Alive	608.0	0.0	608.4597428976	0.0	Male	White	70.0	Stage I	early
+TCGA-DD-AAE8	Male	Asian	16549.0	Alive	Stage I	T1	N0	M0	Alive	664.0	0.0	664.5020878144	0.0	Male	Asian	45.0	Stage I	early
+TCGA-G3-A25U	Female	Asian	23207.0	Alive	Stage I	T1	N0	M0	Alive	1636.0	0.0	1637.2370714536	0.0	Female	Asian	63.0	Stage I	early
+TCGA-YA-A8S7	Male	White	25188.0	Dead	Stage IIIA	T3a	N0	MX	Dead	412.0	1.0	412.3115362976	1.0	Male	White	68.0	Stage IIIA	advanced
+TCGA-FV-A495	Female	White	18740.0	Alive	Stage II	T2	NX	M0	Alive	1.0	0.0	1.00075615488	0.0	Female	White	51.0	Stage II	intermediate
+TCGA-DD-AAEG	Female	Asian	21853.0	Alive	Stage I	T1	N0	M0	Alive	719.0	0.0	719.5436763328	0.0	Female	Asian	59.0	Stage I	early
+TCGA-UB-A7ME	Male	Asian	18846.0	Alive	Stage I	T1	NX	MX	Alive	486.0	0.0	486.36749181960005	0.0	Male	Asian	51.0	Stage I	early
+TCGA-DD-A39Y	Male	Asian	24769.0	Dead	Stage I	T1	NX	M0	Dead	171.0	1.0	171.12930269756	1.0	Male	Asian	67.0	Stage I	early
+TCGA-DD-A4NA	Female	White	24603.0	Alive	Stage IIIC	T2	N1	M0	Alive	1008.0	0.0	1008.7622054584	0.0	Female	White	67.0	Stage IVA	advanced
+TCGA-DD-AAVY	Male	Asian	20709.0	Alive	Stage IIIA	T3	N0	M0	Alive	1970.0	0.0	1971.4896275488002	0.0	Male	Asian	56.0	Stage IIIB	advanced
+TCGA-CC-A9FV	Male	Asian	21044.0	Alive	Stage IIIA	T3	N0	M0	Alive	0.0	0.0	0.0	0.0	Male	Asian	57.0	Stage IIIB	advanced
+TCGA-ED-A4XI	Male	Asian	21497.0	Alive	Stage II	T2	N0	M0	Alive	819.0	0.0	819.6192918208001	0.0	Male	Asian	58.0	Stage II	intermediate
+TCGA-LG-A6GG	Female	White	24792.0	Alive	Stage III	T4	N0	M0	Alive	387.2926324256	0.0	387.2926324256	0.0	Female	White	79.0	Stage IIIC	advanced
+TCGA-BW-A5NQ	Male	White	23353.0	Alive	Stage I	T1	NX	MX	Alive	0.0	0.0	0.0	0.0	Male	White	63.0	Stage I	early
+TCGA-CC-5260	Female	Asian	22345.0	Dead	Stage IIIC	T4	N0	M0	Dead	87.0	1.0	87.06578559632	1.0	Female	Asian	61.0	Stage IIIC	advanced
+TCGA-DD-A1EH	Male	White	8499.0	Alive	Stage III	T3	N0	M0	Alive	1495.0	0.0	1496.1304533720001	0.0	Male	White	23.0	Stage IIIB	advanced
+TCGA-DD-AACZ	Female	Asian	23230.0	Dead	Stage I	T1	N0	M0	Dead	171.0	1.0	171.12930269756	1.0	Female	Asian	63.0	Stage I	early
+TCGA-DD-AADU	Male	Asian	21940.0	Alive	Stage II	T2	N0	M0	Alive	554.0	0.0	554.4189104732001	0.0	Male	Asian	60.0	Stage II	intermediate
+TCGA-2Y-A9H2	Female	White	23653.0	Alive	Stage I	T1	N0	MX	Alive	1731.0	0.0	1732.3089061672001	0.0	Female	White	64.0	Stage I	early
+TCGA-CC-A8HS		asian	6617.0	Dead	Stage IIIC	T3	N1	M0	Dead	300.0	1.0						Stage IVA	advanced
+TCGA-2Y-A9GV	Female	White	19614.0	Dead	Stage IV	T4	N0	MX	Dead	2532.0	1.0	2533.9145873828	1.0	Female	White	54.0	Stage IIIC	advanced
+TCGA-FV-A2QR	Male	White		Dead	Stage I	T1	N0	M0	Dead	581.0	1.0	581.4393268376	1.0	Male	White	75.0	Stage I	early
+TCGA-5R-AA1D	Female	White	6545.0	Alive	Stage IIIA	T3a	N0	M0	Alive	449.0	0.0	449.3395142108	0.0	Female	White	17.0	Stage IIIA	advanced
+TCGA-RC-A6M5	Female	White	7634.0	Alive	Stage IVA	T1	N1	M0	Alive	15.0	0.0	15.01134235364	0.0	Female	White	20.0	Stage IVA	advanced
+TCGA-FV-A2QQ	Male	White	29354.0	Alive	Stage I	T1	N0	MX	Alive	729.0	0.0	729.5512378816001	0.0	Male	White	80.0	Stage I	early
+TCGA-G3-AAUZ	Male	Unknown	17760.0	Alive	Stage I	T1	N0	M0	Alive	480.0	0.0	480.36295495120004	0.0	Male		48.0	Stage I	early
+TCGA-DD-AACK	Male	Asian	25796.0	Alive	Stage I	T1	N0	M0	Alive	9.0	0.0	9.00680539392	0.0	Male	Asian	70.0	Stage I	early
+TCGA-DD-A39V	Male	White	28254.0	Dead	Stage II	T2	NX	M0	Dead	643.0	1.0	643.4862083184	1.0	Male	White	77.0	Stage II	intermediate
+TCGA-BD-A3EP	Female	Black or African American	27756.0	Alive	Stage I	T1	N0	M0	Alive	409.0	0.0	409.3092677112	0.0	Female	Black or African American	75.0	Stage I	early
+TCGA-DD-A4NL	Male	White	16874.0	Alive	Stage I	T1	N0	M0	Alive	1711.0	0.0	1712.2937830696	0.0	Male	White	46.0	Stage I	early
+TCGA-CC-A7IF	Male	Asian	21845.0	Dead	Stage IIIA	T3	N0	M0	Dead	649.0	1.0	649.4907451868	1.0	Male	Asian	59.0	Stage IIIB	advanced
+TCGA-DD-A73E	Male	White	24377.0	Alive	Stage I	T1	N0	M0	Alive	44.0	0.0	44.0332708756	0.0	Male	White	66.0	Stage I	early
+TCGA-CC-A123	Female	Asian	9107.0	Alive	Stage IIIA	T3	N0	M0	Alive	219.0	0.0	219.16559819268	0.0	Female	Asian	24.0	Stage IIIB	advanced
+TCGA-DD-AADY	Female	Asian	20233.0	Alive	Stage I	T1	N0	M0	Alive	555.0	0.0	555.4196665672	0.0	Female	Asian	55.0	Stage I	early
+TCGA-CC-A7IH	Male	Asian	21381.0	Alive	Stage IIIA	T3	N0	M0	Alive	365.0	0.0	365.27599714	0.0	Male	Asian	58.0	Stage IIIB	advanced
+TCGA-CC-A7IJ	Male	Asian	20751.0	Alive	Stage II	T2	N0	M0	Alive	382.0	0.0	382.2888516512	0.0	Male	Asian	56.0	Stage II	intermediate
+TCGA-DD-AACI	Male	Asian	25236.0	Alive	Stage II	T2	N0	M0	Alive	1618.0	0.0	1619.223460544	0.0	Male	Asian	69.0	Stage II	intermediate
+TCGA-BW-A5NO	Male	Black or African American	18510.0	Alive	Stage IIIA	T3a	NX	MX	Alive	20.0	0.0	20.015123128040003	0.0	Male	Black or African American	50.0	Stage IIIA	advanced
+TCGA-G3-AAV3	Female	White	21449.0	Alive	Stage II	T2	N0	M0	Alive	412.0	0.0	412.3115362976	0.0	Female	White	58.0	Stage II	intermediate
+TCGA-DD-AAEB	Male	Asian	22121.0	Alive	Stage I	T1	N0	M0	Alive	478.0	0.0	478.3614427632	0.0	Male	Asian	60.0	Stage I	early
+TCGA-EP-A3RK	Male	White	26985.0	Alive	Stage IIIA	T3a	NX	MX	Alive	363.0	0.0	363.2744846476	0.0	Male	White	73.0	Stage IIIA	advanced
+TCGA-BC-A8YO	Female	White	24189.0	Alive	Stage IIIC	T4	N0	M0	Alive	562.0	0.0	562.424959834	0.0	Female	White	66.0	Stage IIIC	advanced
+TCGA-RC-A7S9	Female	Asian	17403.0	Alive	Stage I	T1	N0	M0	Alive	640.0	0.0	640.4839400364001	0.0	Female	Asian	47.0	Stage I	early
+TCGA-GJ-A3OU	Male	White	21671.0	Alive	Stage I	T1	NX	MX	Alive	879.0	0.0	879.6646611136	0.0	Male	White	59.0	Stage I	early

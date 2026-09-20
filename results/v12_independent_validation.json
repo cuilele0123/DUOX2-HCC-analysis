@@ -1,0 +1,61 @@
+{
+  "gse76427_n_total": 167,
+  "gse76427_n_tumor": 115,
+  "gse76427_n_nontumor": 52,
+  "gse76427_dux2_tumor_median": 6.572,
+  "gse76427_dux2_nontumor_median": 6.486,
+  "gse76427_dux2_mwu_p": 0.15248006399933386,
+  "gse76427_n_survival": 115,
+  "gse76427_events": 23,
+  "gse76427_risk_logrank_p": 0.49563108086291274,
+  "gse76427_risk_cindex": 0.482,
+  "gse76427_median_os_high": Infinity,
+  "gse76427_median_os_low": 75.48,
+  "gse76427_auc_12mo": 0.431,
+  "gse76427_auc_36mo": 0.542,
+  "gse76427_auc_60mo": 0.582,
+  "gse76427_combined_cox": {
+    "beta_risk": 0.45,
+    "p_risk": 0.6900702517187303,
+    "beta_bclc": 0.872,
+    "p_bclc": 0.0039002234435550802
+  },
+  "gse76427_h2h": {
+    "3-gene signature": {
+      "n": 115,
+      "events": 23,
+      "c_index": 0.482
+    },
+    "BCLC stage": {
+      "n": 115,
+      "events": 23,
+      "c_index": 0.639
+    },
+    "Clinical TNM stage": {
+      "n": 114,
+      "events": 23,
+      "c_index": 0.639
+    },
+    "3-gene + BCLC (combined)": {
+      "n": 115,
+      "events": 23,
+      "c_index": 0.588
+    }
+  },
+  "gse76427_dC_3gene_vs_BCLC": {
+    "delta": -0.157,
+    "ci": [
+      -0.288,
+      -0.034
+    ],
+    "p_one_sided": 0.9925
+  },
+  "gse76427_dC_3gene_vs_TNM": {
+    "delta": -0.159,
+    "ci": [
+      -0.292,
+      -0.04
+    ],
+    "p_one_sided": 0.9965
+  }
+}

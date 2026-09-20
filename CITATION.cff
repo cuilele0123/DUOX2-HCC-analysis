@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the archived release and the manuscript."
+title: "Analysis code for: DUOX2 indicates immune activation and metabolic suppression but not prognosis in hepatocellular carcinoma: a multi-cohort and pan-cancer analysis"
+version: "1.0.0"
+date-released: 2026-09-20
+license: MIT
+repository-code: "https://github.com/<GITHUB-ACCOUNT>/DUOX2-HCC-analysis"
+authors:
+  - family-names: Cui
+    given-names: Lele
+    affiliation: "Department of Clinical Laboratory, Beijing Ditan Hospital, Capital Medical University"
+  - family-names: Shi
+    given-names: Jingren
+    affiliation: "Department of Clinical Laboratory, Beijing Ditan Hospital, Capital Medical University"
+  - family-names: Li
+    given-names: Yue
+    affiliation: "Department of Clinical Laboratory, Beijing Ditan Hospital, Capital Medical University"
+  - family-names: Wang
+    given-names: Yajie
+    affiliation: "Department of Clinical Laboratory, Beijing Ditan Hospital, Capital Medical University"
