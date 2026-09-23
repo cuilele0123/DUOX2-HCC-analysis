@@ -163,7 +163,8 @@ the text is present in `results/` - for example:
 ## 8. Citation
 
 If you use this code, please cite the archived release (see `CITATION.cff`) and the
-manuscript. DOI: **<ZENODO_DOI>**
+manuscript. The release is deposited on Zenodo; the version DOI is given in the
+Code availability section of the manuscript.
 
 ## 9. Licence
 

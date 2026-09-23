@@ -4,7 +4,7 @@ title: "Analysis code for: DUOX2 indicates immune activation and metabolic suppr
 version: "1.0.0"
 date-released: 2026-09-20
 license: MIT
-repository-code: "https://github.com/<GITHUB-ACCOUNT>/DUOX2-HCC-analysis"
+abstract: "Analysis code, derived result tables and publication figures for a multi-cohort study of DUOX2 in hepatocellular carcinoma. Raw public data are not redistributed; download scripts are included."
 authors:
   - family-names: Cui
     given-names: Lele
