@@ -3,7 +3,7 @@
 v12 additions
 =============
 (1) GSE76427 (GPL10558, Illumina HT-12 V4.0) as a genuinely independent validation
-    cohort: 115 primary HCC tumours + 52 adjacent non-tumour liver samples, with
+    cohort: 115 primary HCC tumors + 52 adjacent non-tumor liver samples, with
     overall survival, BCLC stage and clinical TNM stage.
 (2) Head-to-head comparison of the 3-gene signature against established clinical
     staging systems (BCLC / TNM in GSE76427, AJCC in TCGA-LIHC) with bootstrap
@@ -147,7 +147,7 @@ def main():
     OUT['gse76427_n_tumor'] = len(tum)
     OUT['gse76427_n_nontumor'] = int((m['tissue'] == 'adjacent non-tumor liver tissue').sum())
 
-    # ---- tumour vs adjacent non-tumour DUOX2 (independent replication)
+    # ---- tumor vs adjacent non-tumor DUOX2 (independent replication)
     t = tum['DUOX2'].dropna()
     n = m.loc[m['tissue'] == 'adjacent non-tumor liver tissue', 'DUOX2'].dropna()
     OUT['gse76427_dux2_tumor_median'] = round(float(t.median()), 3)

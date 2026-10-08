@@ -1,0 +1,155 @@
+cell_type	nCPM
+adipocytes	0.0
+adrenal cortex cells	1.3
+adrenal medulla cells	0.0
+alveolar cells type 1	4.8
+alveolar cells type 2	9.2
+astrocytes	0.0
+b-cells	0.9
+basal keratinocytes	2.8
+basal prostatic cells	2.7
+bergmann glia	0.0
+brain excitatory neurons	0.1
+brain inhibitory neurons	0.1
+breast hormone-responsive cells	0.7
+breast lactating cells	0.0
+breast myoepithelial cells	0.0
+breast secretory cells	0.8
+cardiomyocytes	0.2
+cdc	0.1
+cholangiocytes	27.0
+choroid plexus epithelial cells	0.0
+colonocytes	25.4
+cone photoreceptor cells	0.0
+conjunctival goblet cells	322.3
+corticotrophs	0.0
+cytotrophoblasts	0.2
+decidual stromal cells	0.9
+differentiating spermatogonia	0.4
+distal convoluted tubule cells	0.0
+early primary spermatocytes	2.2
+early spermatids	0.1
+endometrial ciliated cells	1.0
+endometrial glandular cells	4.0
+endometrial luminal cells	5.1
+endometrial secretory cells	13.9
+endometrial stromal cells	0.8
+enteric stem cells	1.5
+enteric transient amplifying cells	0.6
+enterocytes	2.0
+ependymal cells	0.1
+epicardial cells	2.3
+epididymal basal cells	2.5
+epididymal clear cells	0.0
+epididymal efferent duct absorptive cells	0.2
+epididymal efferent duct ciliated cells	1.3
+epididymal principal cells	1.3
+erythrocyte progenitors	0.0
+erythrocytes	0.0
+esophageal apical cells	59.1
+esophageal basal cells	2.5
+esophageal suprabasal cells	10.2
+extravillous trophoblasts	0.1
+fallopian secretory cells	0.0
+fallopian tube ciliated cells	0.1
+fibro-adipogenic progenitors	1.0
+fibroblasts	1.6
+foveolar cells	1151.8
+gastric chief cells	2.2
+gastric progenitor cells	93.6
+goblet cells	3.7
+gonadotrophs	0.0
+granulosa cells	0.0
+hematopoietic stem cells	0.0
+hepatic stellate cells	0.0
+hepatocytes	0.1
+hofbauer cells	0.0
+innate lymphoid cells	0.4
+kupffer cells	0.0
+lacrimal acinar cells	0.0
+lactotrophs	0.1
+late primary spermatocytes	0.0
+late spermatids	0.1
+leydig cells	0.1
+loop of henle epithelial cells	0.3
+lymphatic endothelial cells	0.0
+macrophages	0.5
+mast cells	11.8
+medullary thymic epithelial cells	0.0
+megakaryocyte progenitors	0.0
+megakaryocyte-erythroid progenitors	0.0
+megakaryocytes	0.0
+melanocytes	0.1
+mesothelial cells	0.6
+microglia	0.2
+migrating cytotrophoblasts	0.1
+monocyte progenitors	0.0
+monocytes	0.9
+mucous neck cells	29.3
+müller glia	0.1
+myonuclei	0.1
+myosatellite cells	0.0
+neuroendocrine cells	1.4
+neutrophil progenitors	0.0
+neutrophils	0.5
+nk-cells	0.8
+ocular epithelial cells	19.2
+oligodendrocyte progenitor cells	0.0
+oligodendrocytes	0.2
+oocytes	0.0
+other brain neurons	0.2
+ovarian stromal cells	0.2
+pancreatic acinar cells	31.6
+pancreatic duct cells	65.8
+pancreatic islet cells	4.4
+paneth cells	0.0
+papillary tip epithelial cells	26.6
+parietal cells	1.8
+pdcs	0.0
+pericytes	1.3
+peritubular myoid cells	0.0
+pituicytes/fscs	0.1
+pituitary stem cells	0.3
+plasma cells	0.7
+platelets	0.0
+podocytes	0.0
+prostatic club cells	14.6
+prostatic glandular cells	1.6
+prostatic hillock cells	115.5
+proximal tubule cells	0.1
+renal collecting duct intercalated cells	0.2
+renal collecting duct principal cells	0.2
+renal connecting tubule cells	0.1
+respiratory basal cells	6.3
+respiratory ciliated cells	2.4
+respiratory deuterosomal cells	4.1
+respiratory ionocytes	2.5
+respiratory secretory cells	8.2
+retinal amacrine cells	0.7
+retinal bipolar cells	0.2
+retinal ganglion cells	0.0
+retinal horizontal cells	0.0
+retinal pigment epithelial cells	0.0
+rod photoreceptor cells	0.1
+salivary acinar cells	0.7
+salivary basal cells	7.5
+salivary duct cells	383.1
+salivary ionocytes	2.5
+salivary myoepithelial cells	0.6
+schwann cells	1.4
+sertoli cells	0.0
+smooth muscle cells	0.6
+somatotrophs	0.0
+submucosal glandular cells	0.9
+suprabasal keratinocytes	11.3
+syncytiotrophoblasts	0.1
+t-cells	0.7
+thymic myoid cells	0.0
+thymocytes	0.0
+thyrotrophs	0.0
+transitional alveolar cells	7.1
+tuft cells	0.0
+undifferentiated spermatogonia	0.0
+urothelial cells	76.3
+vascular endothelial cells	0.4
+vascular smooth muscle cells	2.2

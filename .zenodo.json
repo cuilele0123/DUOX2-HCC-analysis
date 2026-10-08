@@ -1,11 +1,11 @@
 {
-  "title": "Analysis code for: DUOX2 indicates immune activation and metabolic suppression but not prognosis in hepatocellular carcinoma: a multi-cohort and pan-cancer analysis",
+  "title": "Analysis code for: DUOX2 marks biliary/ductular epithelium in hepatocellular carcinoma: reported immune and prognostic associations reflect tissue composition",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "language": "eng",
-  "description": "Analysis code, derived result tables and publication figures for a multi-cohort study of DUOX2 in hepatocellular carcinoma. The pipeline covers TCGA-LIHC data acquisition, AJCC stage reconstruction, differential expression (pydeseq2), GO/KEGG and GSEA enrichment, LASSO-Cox prognostic modelling with calibration and decision-curve analysis, benchmark comparison against random survival forests, gradient boosting and survival SVM, ssGSEA immune infiltration, TIDE scoring with epithelial/stromal compartment adjustment for tumour purity, external validation in GSE14520 and GSE76427, head-to-head comparison with AJCC and BCLC stage, a 20-tumour-type pan-cancer analysis, and the statistical power analysis underlying the reported negative result. Raw public data are not redistributed; download scripts are included.",
+  "description": "Analysis code, derived result tables and publication figures for a multi-cohort study of DUOX2 in hepatocellular carcinoma (HCC). The study first localizes the transcript: in a single-cell reference map of human tissues and, independently, in two human liver single-cell atlases distributed through CELLxGENE, DUOX2 is carried by the biliary/ductular epithelial compartment rather than by malignant hepatocytes or by immune cells. Compartment-adjusted analysis then shows that the reported associations with interferon-gamma signaling disappear once hepatocyte, stromal and immune content are accounted for, while the cholangiocyte-lineage association is retained in two independent bulk cohorts (TCGA-LIHC, 371 tumors; GSE14520, 221 tumors from an HBV-dominant Chinese cohort). Neither cohort recovers the prognostic associations previously attributed to DUOX2, and a program derived from its co-expression network is unrelated to benefit from checkpoint blockade. The pipeline covers single-cell reference extraction and compartment analysis, TCGA-LIHC data acquisition and AJCC stage reconstruction, differential expression (pydeseq2), GO/KEGG and GSEA enrichment, LASSO-Cox prognostic modelling with calibration and decision-curve analysis, benchmark comparison against random survival forests, gradient boosting and survival SVM, ssGSEA immune infiltration, TIDE scoring with epithelial/stromal compartment adjustment for tumor purity, external validation in GSE14520 and GSE76427, head-to-head comparison with AJCC and BCLC stage, a 20-tumor-type pan-cancer analysis, immune checkpoint inhibitor analysis in GSE140901, and the independent single-cell atlas verification reported in the manuscript. Raw public data are not redistributed; download scripts are included.",
   "creators": [
     {
       "name": "Cui, Lele",
@@ -27,11 +27,14 @@
   "keywords": [
     "hepatocellular carcinoma",
     "DUOX2",
-    "tumour microenvironment",
-    "prognostic model",
+    "cholangiocyte",
+    "ductular reaction",
+    "biliary epithelium",
+    "tumor microenvironment",
+    "tissue composition",
+    "cell of origin",
     "TCGA-LIHC",
-    "bioinformatics",
-    "tumour purity",
-    "TIDE"
+    "single-cell atlas",
+    "bioinformatics"
   ]
 }

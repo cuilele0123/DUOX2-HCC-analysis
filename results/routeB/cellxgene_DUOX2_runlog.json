@@ -1,0 +1,155 @@
+{
+  "note": "counts 来自 .raw.X；CPM 分母 = 全基因总 counts（.raw.X 行和）",
+  "datasets": [
+    {
+      "key": "HepatolComm2022_biliary",
+      "label": "Human liver biliary lineage (Hepatol Commun 2022)",
+      "file": "hum_chol_hepatology2022.h5ad",
+      "species": "human",
+      "n_obs": 1861,
+      "n_genes": 32596,
+      "median_total_counts": 2707.0,
+      "scope": "all",
+      "n_in_scope": 1861,
+      "genes_missing": [],
+      "celltypes": {
+        "progenitor cell": 1150,
+        "cholangiocyte": 445,
+        "centrilobular region hepatocyte": 266
+      },
+      "disease": {
+        "normal": 1861
+      }
+    },
+    {
+      "key": "HepatolComm2022_hepatocyte",
+      "label": "Human liver hepatocytes (Hepatol Commun 2022)",
+      "file": "hum_hep_hepatology2022.h5ad",
+      "species": "human",
+      "n_obs": 50259,
+      "n_genes": 32596,
+      "median_total_counts": 4222.0,
+      "scope": "all",
+      "n_in_scope": 50259,
+      "genes_missing": [],
+      "celltypes": {
+        "periportal region hepatocyte": 26082,
+        "midzonal region hepatocyte": 12109,
+        "centrilobular region hepatocyte": 10183,
+        "hepatocyte": 1885
+      },
+      "disease": {
+        "normal": 50259
+      }
+    },
+    {
+      "key": "JHepatol2024_biliary",
+      "label": "Human liver cholangiocytes (J Hepatol 2024)",
+      "file": "hum_chol_jhepatol2023.h5ad",
+      "species": "human",
+      "n_obs": 1011,
+      "n_genes": 32596,
+      "median_total_counts": 3428.0,
+      "scope": "all",
+      "n_in_scope": 1011,
+      "genes_missing": [],
+      "celltypes": {
+        "intrahepatic cholangiocyte": 578,
+        "unknown": 433
+      },
+      "disease": {
+        "normal": 1011
+      }
+    },
+    {
+      "key": "JHepatol2024_hepatocyte1",
+      "label": "Human liver hepatocytes set 1 (J Hepatol 2024)",
+      "file": "hum_hep1_jhepatol2023.h5ad",
+      "species": "human",
+      "n_obs": 53015,
+      "n_genes": 32596,
+      "median_total_counts": 2865.0,
+      "scope": "all",
+      "n_in_scope": 53015,
+      "genes_missing": [],
+      "celltypes": {
+        "periportal region hepatocyte": 33495,
+        "centrilobular region hepatocyte": 10672,
+        "midzonal region hepatocyte": 8848
+      },
+      "disease": {
+        "normal": 53015
+      }
+    },
+    {
+      "key": "JHepatol2024_hepatocyte2",
+      "label": "Human liver hepatocytes set 2 (J Hepatol 2024)",
+      "file": "hum_hep2_jhepatol2023.h5ad",
+      "species": "human",
+      "n_obs": 13635,
+      "n_genes": 32596,
+      "median_total_counts": 2524.0,
+      "scope": "all",
+      "n_in_scope": 13635,
+      "genes_missing": [],
+      "celltypes": {
+        "periportal region hepatocyte": 5330,
+        "centrilobular region hepatocyte": 3485,
+        "hepatocyte": 2692,
+        "midzonal region hepatocyte": 1083,
+        "erythroid lineage cell": 706,
+        "erythroblast": 339
+      },
+      "disease": {
+        "normal": 13635
+      }
+    },
+    {
+      "key": "CellMet2026_mouseHCC",
+      "label": "Mouse liver, tumor compartment (Cell Metab 2026)",
+      "file": "mouse_hcc_cellmet2026.h5ad",
+      "species": "mouse",
+      "n_obs": 21715,
+      "n_genes": 30718,
+      "median_total_counts": 4511.0,
+      "scope": "tumor",
+      "n_in_scope": 6008,
+      "genes_missing": [
+        "LYZ",
+        "SERPINA1"
+      ],
+      "celltypes": {
+        "B cell": 1538,
+        "monocyte": 861,
+        "CD8-positive, alpha-beta T cell": 618,
+        "dendritic cell": 579,
+        "macrophage": 579,
+        "natural killer cell": 547,
+        "interneuron": 527,
+        "endothelial cell": 336,
+        "CD4-positive, alpha-beta T cell": 142,
+        "cholangiocyte": 110,
+        "Kupffer cell": 89,
+        "hematopoietic cell": 36,
+        "neuron associated cell": 29,
+        "hepatocyte": 17
+      },
+      "disease": {
+        "metabolic dysfunction-associated steatohepatitis": 10259,
+        "hepatocellular carcinoma": 6008,
+        "normal": 5448
+      }
+    }
+  ],
+  "fisher": [
+    {
+      "comparison": "human biliary lineage vs hepatocyte",
+      "biliary_pos": 59,
+      "biliary_n": 2173,
+      "hepatocyte_pos": 107,
+      "hepatocyte_n": 116130,
+      "odds_ratio": 30.26267694674577,
+      "p_value": 1.3814997844337454e-58
+    }
+  ]
+}

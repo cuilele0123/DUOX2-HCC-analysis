@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite both the archived release and the manuscript."
-title: "Analysis code for: DUOX2 indicates immune activation and metabolic suppression but not prognosis in hepatocellular carcinoma: a multi-cohort and pan-cancer analysis"
-version: "1.0.0"
+title: "Analysis code for: DUOX2 marks biliary/ductular epithelium in hepatocellular carcinoma: reported immune and prognostic associations reflect tissue composition"
+version: "2.0.0"
 date-released: 2026-09-20
 license: MIT
 repository-code: "https://github.com/cuilele0123/DUOX2-HCC-analysis"

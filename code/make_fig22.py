@@ -155,7 +155,7 @@ box(0.25, 7.05, 4.46, 2.5, '#FDF3F2', C['red'],
 
 box(5.29, 7.05, 4.46, 2.5, '#F2F5F9', C['blue'],
     'Firehose Legacy (cross-pipeline)',
-    ['n = 343 analysed', '244/346 (71%) shared with TCGA-LIHC',
+    ['n = 343 analyzed', '244/346 (71%) shared with TCGA-LIHC',
      'C-index 0.642', '0.572 in 103 non-overlapping (P = 0.13)'])
 
 box(0.25, 3.75, 4.46, 2.5, '#F1F8F3', C['green'],
