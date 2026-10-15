@@ -1,4 +1,4 @@
-# Analysis code for: DUOX2 marks biliary/ductular epithelium in hepatocellular carcinoma: reported immune and prognostic associations reflect tissue composition
+# Analysis code for: DUOX2 marks biliary/ductular epithelium rather than malignant hepatocytes in hepatocellular carcinoma: a multi-cohort study of reported immune and prognostic associations
 
 Version 2.0.0 · released 2026-10-08
 

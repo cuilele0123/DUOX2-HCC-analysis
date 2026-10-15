@@ -30,15 +30,17 @@ WORK = os.environ.get('DUOX2_WORK', os.path.abspath(os.path.join(
     os.path.dirname(os.path.abspath(__file__)), '..', '..', '..')))
 ROUTE_B = os.environ.get('DUOX2_ROUTEB', os.path.join(WORK, 'RouteB_analysis'))
 
-TITLE = ('DUOX2 marks biliary/ductular epithelium in hepatocellular carcinoma: '
-         'reported immune and prognostic associations reflect tissue composition')
+TITLE = ('DUOX2 marks biliary/ductular epithelium rather than malignant '
+         'hepatocytes in hepatocellular carcinoma: a multi-cohort study of '
+         'reported immune and prognostic associations')
 
 DESCRIPTION = (
     'Analysis code, derived result tables and publication figures for a multi-cohort '
     'study of DUOX2 in hepatocellular carcinoma (HCC). The study first localizes the '
-    'transcript: in a single-cell reference map of human tissues and, independently, in '
-    'two human liver single-cell atlases distributed through CELLxGENE, DUOX2 is carried '
-    'by the biliary/ductular epithelial compartment rather than by malignant hepatocytes '
+    'transcript: in a single-cell reference map of human tissues and in two human liver '
+    'single-cell releases distributed through CELLxGENE, which come from the same group '
+    'and overlap, so cells present in both were counted once. DUOX2 is carried by the '
+    'biliary/ductular epithelial compartment rather than by malignant hepatocytes '
     'or by immune cells. Compartment-adjusted analysis then shows that the reported '
     'associations with interferon-gamma signaling disappear once hepatocyte, stromal and '
     'immune content are accounted for, while the cholangiocyte-lineage association is '
@@ -54,8 +56,8 @@ DESCRIPTION = (
     'epithelial/stromal compartment adjustment for tumor purity, external validation in '
     'GSE14520 and GSE76427, head-to-head comparison with AJCC and BCLC stage, a '
     '20-tumor-type pan-cancer analysis, immune checkpoint inhibitor analysis in '
-    'GSE140901, and the independent single-cell atlas verification reported in the '
-    'manuscript. Raw public data are not redistributed; download scripts are included.'
+    'GSE140901, and the single-cell verification reported in the manuscript. Raw '
+    'public data are not redistributed; download scripts are included.'
 )
 
 KEYWORDS = [
@@ -213,6 +215,9 @@ def main():
         ('英式 tumour', r'\btumour\b'),
         ('真实姓名路径', r'/Users/weishengying'),
         ('已拒稿刊名', 'Scientific Reports'),
+        # 两个 CELLxGENE 图谱来自同一批材料（见 2026-10-13 核查），
+        # 不得再称 "independent"；"independent bulk cohorts" 指 TCGA/GSE14520，合法。
+        ('单细胞图谱称独立', r'\bindependently\b|independent single-cell'),
     ]
     for label, pat in bad:
         hits = []
